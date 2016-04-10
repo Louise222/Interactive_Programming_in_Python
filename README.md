@@ -13,6 +13,8 @@ Part 1: March 8 – April 18
 - Mini-project #3: [Stopwatch: The Game](http://www.codeskulptor.org/#user41_iBkbYs3eYF_0.py)
 - Mini-project #4: [Pong](http://www.codeskulptor.org/#user41_BoaqaBlSAL_2.py)
 
+Part 2: April 4 - May 8
 
+- Mini-project #5: [Memory](http://www.codeskulptor.org/#user41_uOQskbQOQB_1.py)
 
 © Yingjie Cao 2016 All Rights reserved.
