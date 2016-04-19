@@ -17,5 +17,6 @@ Part 2: April 4 - May 8
 
 - Mini-project #5: [Memory](http://www.codeskulptor.org/#user41_uOQskbQOQB_1.py)
 - Mini-project #6: [Blackjack](http://www.codeskulptor.org/#user41_SOLZ2FtZot_1.py)
+- Mini-project #7: [Spaceship](http://www.codeskulptor.org/#user41_xLyCeF5nms_2.py)
 
 © Yingjie Cao 2016 All Rights reserved.
